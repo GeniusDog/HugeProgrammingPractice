@@ -1,0 +1,5 @@
+# 实践出真知
+# 来源：https://www.nowcoder.com/practice/9273504dbe6f4c5a92b75854faca5f45?tpId=107&&tqId=33282&rp=1&ru=/ta/beginner-programmers&qru=/ta/beginner-programmers/question-ranking
+# 要求：输出：Practice makes perfect!
+
+print("Practice makes perfect!")

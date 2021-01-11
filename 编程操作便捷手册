@@ -1,0 +1,8 @@
+1.进制转化函数：十进制->其他进制  以下都是string类型
+    二进制：bin()
+    八进制：oct()
+    十六进制:hex()
+
+2.数字与字符串相互转化
+string–>int：int()
+int–>string：str()
